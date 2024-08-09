@@ -9,6 +9,7 @@
        2. Run all the cells in contrast_enchan.ipynb
 *please note any changes in the dimension of image (if using an outside dataset*
 *identify the pre and post contrast correctly to get desired results*
+       3. Make sure you're following all the names of the vars (if incorrect the program will not run as intended)
 
 ### Contacts
        hsuryainfo@gmail.com
