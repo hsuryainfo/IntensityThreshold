@@ -5,11 +5,15 @@
 
 ### Process
        1. In order to execute the program, first download the data 
-*if using a different ID, update the paths as needed* 
+
        2. Run all the cells in contrast_enchan.ipynb
+
+       3. Make sure you're following all the names of the vars (if incorrect the program will not run as intended)
+
+*if using a different ID, update the paths as needed* 
 *please note any changes in the dimension of image (if using an outside dataset*
 *identify the pre and post contrast correctly to get desired results*
-       3. Make sure you're following all the names of the vars (if incorrect the program will not run as intended)
+       
 
 ### Contacts
        hsuryainfo@gmail.com
